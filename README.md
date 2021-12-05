@@ -37,7 +37,10 @@
 ## Graphics Library
 <p>
 	<a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/SDL-Graphics-green?style=for-the-badge"></a>
-</p>
+	<a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/TURTLE-Graphics-red?style=for-the-badge"></a>
+	<a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/pygame-blue?style=for-the-badge"></a>
+	
+</p>	
 
 
 ## Design
