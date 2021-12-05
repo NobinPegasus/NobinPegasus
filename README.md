@@ -24,15 +24,32 @@
 
 ## Frameworks and Libraries
 <p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+  
+   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+   <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+   <a href="#"><img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></a>
+   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+	
+	
+</p>
+
+## Design
+<p>
+   
+   <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
+   <a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
+   <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"></a>
+   <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
+
+
 </p>
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
+	
+	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 	
 </p>
 
